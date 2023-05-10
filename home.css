@@ -44,10 +44,49 @@ a:hover{
     }
   }
 
-body{
+/*.body{
     background:url(images/Artboard\ 1.png) fixed center;
-}
+}*/
 
 .yes{
     padding-top: 100px;
 }
+
+.top{
+    text-indent: 50px;
+    padding-right: 150px;
+}
+
+h1{
+    color: #d97e97;
+}
+
+
+/*.menu-box{
+    min-height: 600px;
+    background-color: #e1e1e1;
+   
+    
+}*/
+.menu-box-out{
+    max-height: 600px;
+    background-color: #d97e97;
+   
+}
+
+.navbar{
+    padding-bottom: 70px;
+}
+
+.yellow{
+    color: #ffdc62;
+}
+
+.truck{
+    display: flex;
+    justify-content: center;
+    /*height: 900px;*/
+    
+   
+    
+}/*
